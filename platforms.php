@@ -126,7 +126,7 @@
                 <div class="platform">
                     <img src="images/ps3.png">
                     <h4>PlayStation 3</h4>
-                    <a href="https://new.xbins.org/index.php?action=catsearch&searchtxt=PS3">Download (DEX) [Xbins]</a>
+                    <a href="http://xbins.org/iriez/RetroArch-1.7.1.PS3.DEX.zip">Download (DEX) [Xbins]</a>
                     <a href="https://new.xbins.org/index.php?action=catsearch&searchtxt=PS3">Download (CEX) [Xbins]</a>
                     <a href="https://new.xbins.org/index.php?action=catsearch&searchtxt=PS3">Download (ODE) [Xbins]</a>
                     <a href="#">Installation instructions</a>
