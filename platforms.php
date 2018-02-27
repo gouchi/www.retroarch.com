@@ -156,7 +156,7 @@
                 <div class="platform">
                     <img src="images/xbox.png">
                     <h4>Xbox</h4>
-                    <a href="https://new.xbins.org/index.php?action=catsearch&searchtxt=XBOX">Download [Xbins]</a>
+                    <a href="http://xbins.org/iriez/xbox/RetroArch.zip">Download [Xbins]</a>
                     <a href="#">Installation instructions</a>
                 </div>
             </div>
