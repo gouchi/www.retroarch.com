@@ -14,6 +14,11 @@
         <link href="https://fonts.googleapis.com/css?family=Hind" rel="stylesheet">
 
         <link href="style.css" rel="stylesheet">
+        <script>
+          function showXPConfirmation() {
+            return confirm("This build is intended for Windows XP specifically, and has a reduced featureset. If you're using a newer version of Windows, download the Windows 10/8/7 build instead.");
+          }
+        </script>
     </head>
     <body>
         <div class="container">
