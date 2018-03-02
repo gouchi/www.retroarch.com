@@ -14,6 +14,11 @@
         <link href="https://fonts.googleapis.com/css?family=Hind" rel="stylesheet">
 
         <link href="style.css" rel="stylesheet">
+        <script>
+          function showXPConfirmation() {
+            return confirm("This build is intended for Windows XP specifically, and has a reduced featureset. If you're using a newer version of Windows, download the Windows 10/8/7 build instead.");
+          }
+        </script>
     </head>
     <body>
         <div class="container">
@@ -30,9 +35,9 @@
                 </div>
                 <div id="navbar" class="collapse navbar-collapse">
                     <ul class="nav navbar-nav">
-                        <li <?php if ($_GET[page] != 'platforms' && $_GET[page] != 'donate') { echo 'class="active"'; } ?>><a href="index.php">About</a></li>
+                        <li <?php if ($_GET['page'] != 'platforms' && $_GET['page'] != 'donate') { echo 'class="active"'; } ?>><a href="index.php">About</a></li>
                         <li><a href="https://www.libretro.com/index.php/category/blog/">News</a></li>
-                        <li <?php if ($_GET[page] == 'platforms') { echo 'class="active"'; } ?>><a href="https://www.retroarch.com/index.php?page=platforms">Download</a></li>
+                        <li <?php if ($_GET['page'] == 'platforms') { echo 'class="active"'; } ?>><a href="?page=platforms">Download</a></li>
                         <li><a href="https://forums.libretro.com/">Forums</a></li>
                         <li><a href="https://twitter.com/libretro">Twitter</a></li>
                         <li><a href="https://www.youtube.com/user/Libretro/">Youtube</a></li>
@@ -40,14 +45,13 @@
                         <li><a href="https://web.libretro.com/">Web Player</a></li>
                         <li><a href="https://forums.libretro.com/c/bounty-discussion">Bounties</a></li>
                         <li><a href="https://discord.gg/mrGzVrT">Discord</a></li>
-                        <li <?php if ($_GET[page] == 'donate') { echo 'class="active"'; } ?>><a href="index.php?page=donate">Donate</a></li>
+                        <li <?php if ($_GET['page'] == 'donate') { echo 'class="active"'; } ?>><a href="index.php?page=donate">Donate</a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
             </nav>
         </div>
 
-
-        <?php isset($_GET[page]) ? include($_GET[page] . '.php') : include('about.php'); ?>
+        <?php isset($_GET['page']) ? include($_GET['page'] . '.php') : include('about.php'); ?>
 
         <footer>
             <div class="container">
