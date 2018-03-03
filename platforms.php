@@ -218,14 +218,6 @@
                     <a href="http://www.lakka.tv/get/">Download Lakka</a>
                 </div>
             </div>
-
-            <div class="col-md-3 col-sm-6">
-                <div class="platform">
-                    <img src="images/pandora.png">
-                    <h4>Open Pandora</h4>
-                    <a href="#">Currently unavailable (N/A)</a>
-                </div>
-            </div>
                          </div>
                  <div class="row">
             <div class="col-md-3 col-sm-6">
