@@ -232,6 +232,7 @@
         <ul>
             <li><a href="http://buildbot.libretro.com/stable">Stable builds</a></li>
             <li><a href="http://buildbot.libretro.com/nightly">Nightly builds</a></li>
+         <li><a href="https://xbins.org/libretro/nightly/">Nightly builds (Xbins)</a></li>
         </ul>
     </div>
 </div>
