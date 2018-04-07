@@ -12,10 +12,11 @@
 <div class="doc">
     <div class="container">
         <h2>Ubuntu</h2>
-        <p>Stable version:</p>
-        <pre>sudo add-apt-repository ppa:libretro/stable && sudo apt-get update && sudo apt-get install retroarch</pre>
-        <p>Testing version:</p>
-        <pre>sudo add-apt-repository ppa:libretro/testing && sudo apt-get update && sudo apt-get install retroarch</pre>
+        <p>These instructions will install RetroArch AND all Libretro Cores (they are all in *.deb packages, so you don't need the Core Updater). If you want just a few Libretro Cores, search them using Synaptic or specifying them in apt-get (i.e. libretro-snes9x for example).</p>
+        <p>Stable version (RetroArch stable version):</p>
+        <pre>sudo add-apt-repository ppa:libretro/stable && sudo apt-get update && sudo apt-get install retroarch libretro-*</pre>
+        <p>Testing version (RetroArch development version (Git) and there are more Libretro Cores here, all them updated daily):</p>
+        <pre>sudo add-apt-repository ppa:libretro/testing && sudo apt-get update && sudo apt-get install retroarch libretro-*</pre>
         <h2>Arch Linux</h2>
         <p>Stable version:</p>
         <pre>sudo pacman -Sy retroarch</pre>
