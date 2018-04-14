@@ -44,7 +44,7 @@
                         <li><a href="https://docs.libretro.com/">Docs</a></li>
                         <li><a href="https://web.libretro.com/">Web Player</a></li>
                         <li><a href="https://forums.libretro.com/c/bounty-discussion">Bounties</a></li>
-                        <li><a href="https://discord.gg/mrGzVrT">Discord</a></li>
+                        <li><a href="https://discord.gg/C4amCeV">Discord</a></li>
                         <li <?php if ($_GET['page'] == 'donate') { echo 'class="active"'; } ?>><a href="index.php?page=donate">Donate</a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
