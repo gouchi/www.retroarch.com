@@ -1,4 +1,4 @@
- <?php $version = "1.7.1"; ?>
+ <?php $version = "1.7.2"; ?>
 
 <div id="welcome">
     <div class="container">
@@ -126,10 +126,8 @@
                 <div class="platform">
                     <img src="images/ps3.png">
                     <h4>PlayStation 3</h4>
-                    <a href="http://xbins.org/iriez/RetroArch-<?php echo $version; ?>.PS3.DEX.zip">Download (DEX) [Xbins]</a>
-                    <a href="https://new.xbins.org/index.php?action=catsearch&searchtxt=PS3">Download (CEX) [Xbins]</a>
-                    <a href="https://new.xbins.org/index.php?action=catsearch&searchtxt=PS3">Download (ODE) [Xbins]</a>
-                    <a href="#">Installation instructions</a>
+                    <a href="https://xbins.org/libretro/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.CEX.PS3.pkg">Download (CEX) [Xbins]</a>
+                    <a href="https://xbins.org/libretro/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.DEX.PS3.pkg">Download (ODE) [Xbins]</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
@@ -156,8 +154,7 @@
                 <div class="platform">
                     <img src="images/xbox.png">
                     <h4>Xbox</h4>
-                    <a href="http://xbins.org/iriez/xbox/RetroArch.zip">Download [Xbins]</a>
-                    <a href="#">Installation instructions</a>
+                    <a href="https://xbins.org/libretro/stable/<?php echo $version; ?>/xbox/xbox/RetroArch.zip">Download [Xbins]</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
@@ -165,7 +162,6 @@
                     <img src="images/xbox360.png">
                     <h4>Xbox 360</h4>
                     <a href="#">Currently unavailable (N/A)</a>
-                    <a href="#">Installation instructions</a>
                 </div>
             </div>
                                               </div>
