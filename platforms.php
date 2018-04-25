@@ -127,7 +127,8 @@
                     <img src="images/ps3.png">
                     <h4>PlayStation 3</h4>
                     <a href="https://xbins.org/libretro/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.CEX.PS3.pkg">Download (CEX) [Xbins]</a>
-                    <a href="https://xbins.org/libretro/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.DEX.PS3.pkg">Download (ODE) [Xbins]</a>
+                    <a href="https://xbins.org/libretro/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.DEX.PS3.pkg">Download (DEX) [Xbins]</a>
+                    <a href="https://xbins.org/libretro/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.ODE.PS3.pkg">Download (ODE) [Xbins]</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
