@@ -22,12 +22,14 @@
         <pre>sudo pacman -Sy retroarch</pre>
         <p>Git version:</p>
         <pre>yaourt -Sy retroarch-git</pre>
-        <h2><a href="https://flathub.org/apps/details/org.libretro.RetroArch">Flatpak</a></h2>
+        <h2>Flatpak</h2>
+        <p><a href="https://flathub.org/apps/details/org.libretro.RetroArch">RetroArch on Flathub</a>:</p>
         <pre>flatpak remote-add --user --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo</pre>
         <pre>flatpak install --user flathub org.libretro.RetroArch</pre>
         <p>Update to the latest stable:</p>
         <pre>flatpak update --user org.libretro.RetroArch</pre>
-        <h2><a href="https://snapcraft.io/retroarch">Snap</a></h2>
-        <pre>snap install retroarch</pre>
+        <h2>Snap</h2>
+        <p><a href="https://snapcraft.io/retroarch">RetroArch on Snapcraft</a>:</p>
+        <pre>sudo snap install retroarch</pre>
     </div>
 </div>
