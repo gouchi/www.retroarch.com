@@ -85,6 +85,10 @@
                         <a href="https://www.youtube.com/user/Libretro"><i class="fa fa-youtube"></i></a>
                         <a href="http://webchat.freenode.net/?channels=%23retroarch&amp;uio=d4"><i class="fa fa-comments"></i></a>
                     </div>
+                    <div class="col-md-4 col-sm-6">
+                        <h4>Partners</h4>
+                        <a href="http://skunx7.wixsite.com/bliss-box/online-store/4-play-basic-kit-18-cables-p106145008"><img class="alignnone size-medium wp-image-46422" src="https://www.libretro.com/wp-content/uploads/2018/05/newLogo-300x96.png" alt="" width="300" height="96" /></a>
+                    </div>
                 </div>
             </div>
         </footer>
