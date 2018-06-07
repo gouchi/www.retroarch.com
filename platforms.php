@@ -89,7 +89,7 @@
                 <div class="platform">
                     <img src="images/web.png">
                     <h4>Web Browsers</h4>
-                    <a href="https://buildbot.libretro.com/web/">Try it online</a>
+                    <a href="https://web.libretro.com/">Try it online</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
