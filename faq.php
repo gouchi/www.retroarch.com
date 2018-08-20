@@ -47,5 +47,10 @@
 <div class="row platforms">
  Maybe you have accidentally downloaded the Windows XP build, which is not compatible with all cores.
     </div>
+     <h1>Project-specific</h1>
+     <h3>When will the next version of RetroArch be released ?</h3>
+     <div class="row platform">
+      There is no ETA. You can <a href="https://buildbot.libretro.com/nightly/">try the nightly builds to get the latest features</a>.
+     </div>
 </div>
 </div>
