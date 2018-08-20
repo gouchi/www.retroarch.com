@@ -92,5 +92,9 @@
      <div class="row platforms">
       There is no ETA. You can <a href="https://buildbot.libretro.com/nightly/">try the nightly builds to get the latest features</a>.
      </div>
+        <h3>How do I report a bug ?</h3>
+        <div class="row platforms">
+            You need to open <a href="https://github.com/libretro">a github issue</a> in the right repository. Check if a similar issue isn't already open. Give details and steps to reproduce it.
+        </div>
 </div>
 </div>
