@@ -49,7 +49,7 @@
     </div>
      <h1>Project-specific</h1>
      <h3>When will the next version of RetroArch be released ?</h3>
-     <div class="row platform">
+     <div class="row platforms">
       There is no ETA. You can <a href="https://buildbot.libretro.com/nightly/">try the nightly builds to get the latest features</a>.
      </div>
 </div>
