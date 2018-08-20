@@ -42,7 +42,16 @@
         <h3>I saved in game but it didn't work / RetroArch crashed and I lost my save</h3>
 <div class="row platforms">RetroArch doesn't save in real time, SRAM is saved when you hit "close content".
     In some cases it's possible that closing RetroArch without closing the core first loses the saves
-    from the current session (especially on Windows).</div>
+    from the current session (especially on Windows).
+    
+    To fix this you can enable the "Saveram autosave interval" option under Settings > Saving.
+    Be aware that it might corrupt your save if you close RetroArch while the game is saving,
+    especially in games that heavily use the SRAM and with a low autosave interval.
+    Another option is to use save states.
+
+    If you're on Android, make sure your save folder isn't located on an external SD card, 
+    it won't work.
+        </div>
      <hr />
      <h1><a id="windows-platform-specific"></a>Windows platform-specific</h1>
      <h3>When I try to load a core on RetroArch it says "No Core"</h3>
