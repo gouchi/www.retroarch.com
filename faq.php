@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-md-12 abstract">
                 <h1>Frequenty Asked Questions</h1>
-                <p>TODO</p>
+                <p></p>
             </div>
         </div>
     </div>
@@ -47,4 +47,5 @@
 <div class="row platforms">
  Maybe you have accidentally downloaded the Windows XP build, which is not compatible with all cores.
     </div>
+</div>
 </div>
