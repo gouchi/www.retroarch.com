@@ -30,6 +30,8 @@
  <li>If you are using a disc-based game (bin + cue archive) you need to unzip it</li>
       </ul>
      </div>
+     <h2>Why does some core / game run slowly ?</h2>
+     <div class="row platforms">It is likely because your system is too slow.</div>
      
      <h1>Windows platform-specific</h1>
      <h2>When I try to load a core on RetroArch it says "No Core"</h2>
@@ -40,5 +42,9 @@
        <li>You need to update RetroArch</li>
       </ul>
      </div>
+     
+     <h2>I can't see (some core) in the download list</h2>
+<div class="row platforms">
+ Maybe you have accidentally downloaded the Windows XP build, which is not compatible with all cores.
     </div>
 </div>
