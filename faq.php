@@ -15,7 +15,7 @@
     <div class="container">
         <h2>Which core is the best to emulate (some console / game) ?</h2>
         <div class="row platforms">
-        <p>There is no best core, each has a different use case (accuracy, speed...).</p>.
+        There is no best core, each has a different use case (accuracy, speed...).
         </div>
     </div>
 </div>
