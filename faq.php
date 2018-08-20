@@ -56,6 +56,7 @@
 <div class="row platforms">
  Maybe you have accidentally downloaded the Windows XP build, which is not compatible with all cores.
     </div>
+     <hr />
      <h1><a id="project-specific"></a>Project-specific</h1>
      <h3>When will the next version of RetroArch be released ?</h3>
      <div class="row platforms">
