@@ -39,6 +39,10 @@
      <h3>Why does some core / game run slowly ?</h3>
      <div class="row platforms">It is likely because your system is too slow.
      </div>
+        <h3>I saved in game but it didn't work / RetroArch crashed and I lost my save</h3>
+<div class="row platforms">RetroArch doesn't save in real time, SRAM is saved when you hit "close content".
+    In some cases it's possible that closing RetroArch without closing the core first loses the saves
+    from the current session (especially on Windows).</div>
      <hr />
      <h1><a id="windows-platform-specific"></a>Windows platform-specific</h1>
      <h3>When I try to load a core on RetroArch it says "No Core"</h3>
