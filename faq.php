@@ -14,6 +14,7 @@
      <div class="row platforms">
       <ul>
        <li><a href="#general-questions">General Questions</a></li>
+       <li><a href="#linux-platform-specific">Linux platform-specific</a></li>
        <li><a href="#windows-platform-specific">Windows platform-specific</a></li>
        <li><a href="#project-specific">Project-specific</a></li>
       </ul>
@@ -51,6 +52,12 @@
 
     If you're on Android, make sure your save folder isn't located on an external SD card, 
     it won't work.
+        </div>
+      <hr />
+     <h1><a id="linux-platform-specific"></a>Linux platform-specific</h1>
+        <h3></h3>
+        <div class="row platforms">
+            It's likely because your Linux distribution disabled the online updater, you need to give write permissions to your RetroArch folder.
         </div>
      <hr />
      <h1><a id="windows-platform-specific"></a>Windows platform-specific</h1>
