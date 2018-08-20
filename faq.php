@@ -16,6 +16,8 @@
      <div class="row platforms">
       <ul>
        <li><a href="#general-questions">General Questions</a></li>
+       <li><a href="#windows-platform-specific">Windows platform-specific</a></li>
+       <li><a href="#project-specific">Project-specific</a></li>
       </ul>
      </div>
      <h1><a id="general-questions"></a>General questions</h1>
@@ -38,7 +40,7 @@
      <h3>Why does some core / game run slowly ?</h3>
      <div class="row platforms">It is likely because your system is too slow.</div>
      
-     <h1>Windows platform-specific</h1>
+     <h1><a id="windows-platform-specific"></a>Windows platform-specific</h1>
      <h3>When I try to load a core on RetroArch it says "No Core"</h3>
      <div class="row platforms">
       It's either because :
@@ -52,7 +54,7 @@
 <div class="row platforms">
  Maybe you have accidentally downloaded the Windows XP build, which is not compatible with all cores.
     </div>
-     <h1>Project-specific</h1>
+     <h1><a id="project-specific"></a>Project-specific</h1>
      <h3>When will the next version of RetroArch be released ?</h3>
      <div class="row platforms">
       There is no ETA. You can <a href="https://buildbot.libretro.com/nightly/">try the nightly builds to get the latest features</a>.
