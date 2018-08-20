@@ -56,6 +56,11 @@
     If you're on Android, make sure your save folder isn't located on an external SD card, 
     it won't work.
         </div>
+        <h3>Why is (some core) running too fast ?</h3>
+        <div class="row platforms">
+            It's likely because you have VSync and / or audio disabled.
+        </div>
+            <hr />
      <h1><a id="platform-specific"></a>Platform-specific</h1>
       <hr />
      <h2><a id="linux-platform-specific"></a>Linux</h1>
