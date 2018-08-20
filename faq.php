@@ -17,5 +17,17 @@
         <div class="row platforms">
         There is no best core, each has a different use case (accuracy, speed...).
         </div>
+     <h2>I can't load / the core crashes on startup with (some game)</h2>
+     <div class="row platforms">
+      It's either because
+<ul>
+ <li>You are missing a required file like the BIOS or the name is not exact
+  (you can check it under main menu -> load core -> information -> core information)</li>
+ <li>The core doesn't support your game</li>
+ <li>Your ROM is a bad dump</li>
+ <li>The core doesn't support the video driver you are using</li>
+ <li>If you are using a disc-based game (bin + cue archive) you need to unzip it</li>
+      </ul>
+     </div>
     </div>
 </div>
