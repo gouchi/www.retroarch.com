@@ -19,7 +19,7 @@
        <li><a href="#linux-platform-specific">Linux</a></li>
        <li><a href="#windows-platform-specific">Windows</a></li>
        </ul>
-       <li><a href="#project-specific">Project-specific</a></li>
+       <li><a href="#project-specific">Project-specific Questions</a></li>
       </ul>
      </div>
                 <hr />
