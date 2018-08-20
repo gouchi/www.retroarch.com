@@ -19,6 +19,7 @@
        <li><a href="#windows-platform-specific">Windows platform-specific</a></li>
        <li><a href="#project-specific">Project-specific</a></li>
       </ul>
+           <hr />
      </div>
      <h1><a id="general-questions"></a>General questions</h1>
         <h3>Which core is the best to emulate (some console / game) ?</h3>
