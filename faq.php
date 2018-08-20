@@ -14,8 +14,11 @@
      <div class="row platforms">
       <ul>
        <li><a href="#general-questions">General Questions</a></li>
-       <li><a href="#linux-platform-specific">Linux platform-specific</a></li>
-       <li><a href="#windows-platform-specific">Windows platform-specific</a></li>
+       <li><a href="#platform-specific">Platform-specific Questions</a></li>
+       <ul>
+       <li><a href="#linux-platform-specific">Linux</a></li>
+       <li><a href="#windows-platform-specific">Windows</a></li>
+       </ul>
        <li><a href="#project-specific">Project-specific</a></li>
       </ul>
      </div>
@@ -53,14 +56,15 @@
     If you're on Android, make sure your save folder isn't located on an external SD card, 
     it won't work.
         </div>
+     <h1><a id="platform-specific"></a>Platform-specific</h1>v
       <hr />
-     <h1><a id="linux-platform-specific"></a>Linux platform-specific</h1>
+     <h2><a id="linux-platform-specific"></a>Linux</h1>
         <h3>I can't update cores</h3>
         <div class="row platforms">
             It's likely because your Linux distribution disabled the online updater, you need to give write permissions to your RetroArch folder.
         </div>
      <hr />
-     <h1><a id="windows-platform-specific"></a>Windows platform-specific</h1>
+     <h2><a id="windows-platform-specific"></a>Windows</h1>
      <h3>When I try to load a core on RetroArch it says "No Core"</h3>
      <div class="row platforms">
       It's either because :
