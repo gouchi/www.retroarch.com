@@ -5,7 +5,6 @@
         <div class="row">
             <div class="col-md-12 abstract">
                 <h1>Frequenty Asked Questions</h1>
-             <a href="#general-questions">General Questions</a>
             </div>
         </div>
     </div>
@@ -13,6 +12,10 @@
 
 <div class="doc">
     <div class="container">
+     <h1><a id="table-of-contents"></a>Table of Contents</h1>
+     <div class="row platforms">
+      <a href="#general-questions">General Questions</a>
+     </div>
      <h1><a id="general-questions"></a>General questions</h1>
         <h3>Which core is the best to emulate (some console / game) ?</h3>
         <div class="row platforms">
