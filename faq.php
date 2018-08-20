@@ -19,8 +19,8 @@
        <li><a href="#windows-platform-specific">Windows platform-specific</a></li>
        <li><a href="#project-specific">Project-specific</a></li>
       </ul>
-           <hr />
      </div>
+                <hr />
      <h1><a id="general-questions"></a>General questions</h1>
         <h3>Which core is the best to emulate (some console / game) ?</h3>
         <div class="row platforms">
@@ -39,8 +39,9 @@
       </ul>
      </div>
      <h3>Why does some core / game run slowly ?</h3>
-     <div class="row platforms">It is likely because your system is too slow.</div>
-     
+     <div class="row platforms">It is likely because your system is too slow.
+     </div>
+     <hr />
      <h1><a id="windows-platform-specific"></a>Windows platform-specific</h1>
      <h3>When I try to load a core on RetroArch it says "No Core"</h3>
      <div class="row platforms">
