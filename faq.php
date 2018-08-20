@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-md-12 abstract">
                 <h1>Frequenty Asked Questions</h1>
-                <p></p>
+             <a href="#general-questions">General Questions</a>
             </div>
         </div>
     </div>
@@ -13,7 +13,7 @@
 
 <div class="doc">
     <div class="container">
-     <h1>General questions</h1>
+     <h1><a id="general-questions"></a>General questions</h1>
         <h3>Which core is the best to emulate (some console / game) ?</h3>
         <div class="row platforms">
         There is no best core, each has a different use case (accuracy, speed...).
