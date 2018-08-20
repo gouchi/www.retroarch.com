@@ -55,7 +55,7 @@
         </div>
       <hr />
      <h1><a id="linux-platform-specific"></a>Linux platform-specific</h1>
-        <h3></h3>
+        <h3>I can't update cores</h3>
         <div class="row platforms">
             It's likely because your Linux distribution disabled the online updater, you need to give write permissions to your RetroArch folder.
         </div>
