@@ -56,7 +56,7 @@
     If you're on Android, make sure your save folder isn't located on an external SD card, 
     it won't work.
         </div>
-     <h1><a id="platform-specific"></a>Platform-specific</h1>v
+     <h1><a id="platform-specific"></a>Platform-specific</h1>
       <hr />
      <h2><a id="linux-platform-specific"></a>Linux</h1>
         <h3>I can't update cores</h3>
