@@ -32,5 +32,13 @@
      </div>
      
      <h1>Windows platform-specific</h1>
+     <h2>When I try to load a core on RetroArch it says "No Core"</h2>
+     <div class="row platforms">
+      It's either because :
+      <ul>
+       <li>You need to download the MSVC Runtime</li>
+       <li>You need to update RetroArch</li>
+      </ul>
+     </div>
     </div>
 </div>
