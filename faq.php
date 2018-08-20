@@ -1,5 +1,3 @@
- <?php $version = "1.7.3"; ?>
-
 <div id="welcome">
     <div class="container">
         <div class="row">
