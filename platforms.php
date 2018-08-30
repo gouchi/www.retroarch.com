@@ -1,4 +1,4 @@
- <?php $version = "1.7.3"; ?>
+ <?php $version = "1.7.4"; ?>
 
 <div id="welcome">
     <div class="container">
@@ -99,6 +99,7 @@
                     <a href="https://play.google.com/store/apps/details?id=com.retroarch">Google Play</a>
                     <a href="http://fdroid.libretro.com/">F-Droid</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/android/RetroArch.apk">Download</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/android/RetroArch_aarch64.apk">Download (64bit)</a>
                     <a href="#">Installation instructions</a>
                 </div>
             </div>
