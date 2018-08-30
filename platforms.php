@@ -77,10 +77,11 @@
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86_64/RetroArch.dmg" title="Use this if you are using a Mac with at least MacOS X 10.7 installed or later.">Download (Intel)</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86_64/RetroArch_CG.dmg" title="Use this if you are using a Mac with at least MacOS X 10.7 installed or later. This build requires Nvidia Cg installed, and will use it. If in doubt, use the other one.">Download (Intel) (with Cg support - requires Cg installed)</a>
                                      <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86/RetroArch.dmg" title="Use this if you are using a 32bit Mac with at least MacOS X 10.6 installed or later.">Download (Intel 32bit)</a>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86/RetroArch_CG.dmg" title="Use this if you are using a 32bit Mac with at least MacOS X 10.6 installed or later. This build requires Nvidia Cg installed, and will use it. If in doubt, use the other one.">Download (Intel 32bit) (with Cg support - requires Cg installed)</a>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/ppc/RetroArch.zip" title="Use this if you are using a PowerMac/Powerbook with MacOS X 10.5 installed.">Download (PowerPC)</a>
+                    <s><a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86/RetroArch_CG.dmg" title="Use this if you are using a 32bit Mac with at least MacOS X 10.6 installed or later. This build requires Nvidia Cg installed, and will use it. If in doubt, use the other one.">Download (Intel 32bit) (with Cg support - requires Cg installed)</a></s>
+                    <s><a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/ppc/RetroArch.zip" title="Use this if you are using a PowerMac/Powerbook with MacOS X 10.5 installed.">Download (PowerPC)</a></s>
                     <a href="https://docs.libretro.com/compilation/osx/">Compilation instructions (Intel)</a>
                     <a href="https://docs.libretro.com/compilation/osxppc/">Compilation instructions (PowerPC)</a>
+                    <p>Note: OSX version for x86 32bit and PowerPC will return at a later point in time. </p>
                 </div>
             </div>
               </div>
