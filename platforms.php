@@ -81,7 +81,7 @@
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/ppc/RetroArch.zip" title="Use this if you are using a PowerMac/Powerbook with MacOS X 10.5 installed.">Download (PowerPC)</a>
                     <a href="https://docs.libretro.com/compilation/osx/">Compilation instructions (Intel)</a>
                     <a href="https://docs.libretro.com/compilation/osxppc/">Compilation instructions (PowerPC)</a>
-                    <p>Note: OSX version for x86 32bit and PowerPC will return at a later point in time. </p>
+                    <p>Note: OSX version for x86 32bit will return at a later point in time. </p>
                 </div>
             </div>
               </div>
