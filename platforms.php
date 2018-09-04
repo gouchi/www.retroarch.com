@@ -49,57 +49,57 @@
                     <a href="https://docs.libretro.com/compilation/windowsXP/">Compilation instructions (Windows XP - Visual Studio 2010)</a>
                 </div>
             </div>
-     </div>
+         </div>
              <div class="row">
-             <div class="col-md-3 col-sm-6">
-                <div class="platform">
-                    <img src="images/windows98.png">
-                    <h4>Windows 98 SE / ME / 2000</h4>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2005/x86/RetroArch-<?php echo $version; ?>-msvc2005-x86-setup.exe" title="Use this is if you are running a computer with Windows 98 Second Edition, Windows Millenium Edition, and/or Windows 2000. This is a graphical installer. If you already have RetroArch installed, this installer will simply upgrade your existing installation. NOTE: While this version will also work for XP and up, we highly recommend you use the other Windows version instead, as your core choice will be more limited with this version.">Installer</a>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2005/x86/RetroArch.7z" title="The same as the installer version, except packaged inside a 7zip file, in case you'd like to manually update or install RetroArch somewhere. Use this if you are running a computer running Windows 98 Second Edition, Windows Millenium Edition, and/or Windows 2000. NOTE: While this version will also work for XP and up, we highly recommend you use the other Windows version instead, as your core choice will be more limited with this version.">Download</a>
-                    <a href="https://buildbot.libretro.com/docs/compilation/windows98/">Compilation instructions (Windows 98SE/2000 - Visual Studio 2005)</a>
+                <div class="col-md-3 col-sm-6">
+                    <div class="platform">
+                       <img src="images/windows98.png">
+                       <h4>Windows 98 SE / ME / 2000</h4>
+                       <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2005/x86/RetroArch-<?php echo $version; ?>-msvc2005-x86-setup.exe" title="Use this is if you are running a computer with Windows 98 Second Edition, Windows Millenium Edition, and/or Windows 2000. This is a graphical installer. If you already have RetroArch installed, this installer will simply upgrade your existing installation. NOTE: While this version will also work for XP and up, we highly recommend you use the other Windows version instead, as your core choice will be more limited with this version.">Installer</a>
+                       <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2005/x86/RetroArch.7z" title="The same as the installer version, except packaged inside a 7zip file, in case you'd like to manually update or install RetroArch somewhere. Use this if you are running a computer running Windows 98 Second Edition, Windows Millenium Edition, and/or Windows 2000. NOTE: While this version will also work for XP and up, we highly recommend you use the other Windows version instead, as your core choice will be more limited with this version.">Download</a>
+                       <a href="https://buildbot.libretro.com/docs/compilation/windows98/">Compilation instructions (Windows 98SE/2000 - Visual Studio 2005)</a>
+                    </div>
                 </div>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="platform">
-                    <img src="images/windows98.png">
-                    <h4>Windows 95 / Windows 98</h4>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2003/x86/RetroArch-<?php echo $version; ?>-msvc2003-x86-setup.exe" title="Use this is if you are running a computer with Windows 95 or Windows 98 First Edition. This is a graphical installer. If you already have RetroArch installed, this installer will simply upgrade your existing installation. NOTE: While this version will also work for 98SE and up, we highly recommend you use the other Windows version instead, as your core choice will be more limited with this version.">Installer</a>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2003/x86/RetroArch.7z" title="The same as the installer version, except packaged inside a 7zip file, in case you'd like to manually update or install RetroArch somewhere. Use this if you are running a computer running Windows 95 or Windows 98 First Edition. NOTE: While this version will also work for 98SE and up, we highly recommend you use the other Windows version instead, as your core choice will be more limited with this version.">Download</a>
-                    <a href="https://docs.libretro.com/compilation/windows95-msvc-cmdline/">Compilation instructions (Windows 95/Windows 98 - Visual Studio 2003)</a>
+                <div class="col-md-3 col-sm-6">
+                    <div class="platform">
+                       <img src="images/windows98.png">
+                       <h4>Windows 95 / Windows 98</h4>
+                       <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2003/x86/RetroArch-<?php echo $version; ?>-msvc2003-x86-setup.exe" title="Use this is if you are running a computer with Windows 95 or Windows 98 First Edition. This is a graphical installer. If you already have RetroArch installed, this installer will simply upgrade your existing installation. NOTE: While this version will also work for 98SE and up, we highly recommend you use the other Windows version instead, as your core choice will be more limited with this version.">Installer</a>
+                       <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2003/x86/RetroArch.7z" title="The same as the installer version, except packaged inside a 7zip file, in case you'd like to manually update or install RetroArch somewhere. Use this if you are running a computer running Windows 95 or Windows 98 First Edition. NOTE: While this version will also work for 98SE and up, we highly recommend you use the other Windows version instead, as your core choice will be more limited with this version.">Download</a>
+                       <a href="https://docs.libretro.com/compilation/windows95-msvc-cmdline/">Compilation instructions (Windows 95/Windows 98 - Visual Studio 2003)</a>
+                    </div>
                 </div>
-            </div>
-        <div class="row">
-            <div class="col-md-3 col-sm-6">
-                <div class="platform">
-                    <img src="images/apple.png">
-                    <h4>Apple macOS / OSX</h4>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86_64/RetroArch.dmg" title="Use this if you are using a Mac with at least MacOS X 10.7 installed or later.">Download (Intel)</a>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86_64/RetroArch_CG.dmg" title="Use this if you are using a Mac with at least MacOS X 10.7 installed or later. This build requires Nvidia Cg installed, and will use it. If in doubt, use the other one.">Download (Intel) (with Cg support - requires Cg installed)</a>
-                    <s><a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86/RetroArch.dmg" title="Use this if you are using a 32bit Mac with at least MacOS X 10.6 installed or later.">Download (Intel 32bit)</a></s>
-                    <s><a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86/RetroArch_CG.dmg" title="Use this if you are using a 32bit Mac with at least MacOS X 10.6 installed or later. This build requires Nvidia Cg installed, and will use it. If in doubt, use the other one.">Download (Intel 32bit) (with Cg support - requires Cg installed)</a></s>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/ppc/RetroArch.zip" title="Use this if you are using a PowerMac/Powerbook with MacOS X 10.5 installed.">Download (PowerPC)</a>
-                    <a href="https://docs.libretro.com/compilation/osx/">Compilation instructions (Intel)</a>
-                    <a href="https://docs.libretro.com/compilation/osxppc/">Compilation instructions (PowerPC)</a>
-                    <p>Note: OSX version for x86 32bit will return at a later point in time. </p>
-                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="platform">
+                       <img src="images/apple.png">
+                       <h4>Apple macOS / OSX</h4>
+                       <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86_64/RetroArch.dmg" title="Use this if you are using a Mac with at least MacOS X 10.7 installed or later.">Download (Intel)</a>
+                       <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86_64/RetroArch_CG.dmg" title="Use this if you are using a Mac with at least MacOS X 10.7 installed or later. This build requires Nvidia Cg installed, and will use it. If in doubt, use the other one.">Download (Intel) (with Cg support - requires Cg installed)</a>
+                       <s><a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86/RetroArch.dmg" title="Use this if you are using a 32bit Mac with at least MacOS X 10.6 installed or later.">Download (Intel 32bit)</a></s>
+                       <s><a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86/RetroArch_CG.dmg" title="Use this if you are using a 32bit Mac with at least MacOS X 10.6 installed or later. This build requires Nvidia Cg installed, and will use it. If in doubt, use the other one.">Download (Intel 32bit) (with Cg support - requires Cg installed)</a></s>
+                       <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/ppc/RetroArch.zip" title="Use this if you are using a PowerMac/Powerbook with MacOS X 10.5 installed.">Download (PowerPC)</a>
+                       <a href="https://docs.libretro.com/compilation/osx/">Compilation instructions (Intel)</a>
+                       <a href="https://docs.libretro.com/compilation/osxppc/">Compilation instructions (PowerPC)</a>
+                       <p>Note: OSX version for x86 32bit will return at a later point in time. </p>
+                    </div>
+             </div>
+             <div class="row">
+                <div class="col-md-3 col-sm-6">
                   <div class="platform">
                     <img src="images/metal.png">
                     <h4>macOS High Sierra (and later) w/ Metal</h4>
                     <p>Coming soon!</p>
                   </div>
-            </div>
-              </div>
-              <div class="row">
-            <div class="col-md-3 col-sm-6">
-                <div class="platform">
+                </div>
+                <div class="col-md-3 col-sm-6">
+                  <div class="platform">
                     <img src="images/web.png">
                     <h4>Web Browsers</h4>
                     <a href="https://web.libretro.com/">Try it online</a>
+                  </div>
                 </div>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="platform">
+                <div class="col-md-3 col-sm-6">
+                  <div class="platform">
                     <img src="images/android.png">
                     <h4>Android</h4>
                     <a href="https://play.google.com/store/apps/details?id=com.retroarch">Google Play</a>
@@ -108,19 +108,21 @@
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/android/RetroArch.apk">Download</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/android/RetroArch_aarch64.apk">Download (64bit)</a>
                     <a href="#">Installation instructions</a>
+                  </div>
                 </div>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="platform">
-                    <img src="images/ios.png">
-                    <h4>iOS</h4>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/ios/RetroArch.zip">Download</a>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/ios9/RetroArch.zip">Download (iOS9)</a>
-                    <a href="#">Installation instructions</a>
-                    <a href="https://docs.libretro.com/compilation/ios/">Compilation instructions</a>
+             </div>
+             <div class="row">
+                <div class="col-md-3 col-sm-6">
+                   <div class="platform">
+                     <img src="images/ios.png">
+                     <h4>iOS</h4>
+                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/ios/RetroArch.zip">Download</a>
+                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/ios9/RetroArch.zip">Download (iOS9)</a>
+                     <a href="#">Installation instructions</a>
+                     <a href="https://docs.libretro.com/compilation/ios/">Compilation instructions</a>
+                   </div>
                 </div>
-            </div>
-     </div>
+             </div>
                  <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
