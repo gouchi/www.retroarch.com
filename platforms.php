@@ -123,25 +123,25 @@
                      <a href="https://docs.libretro.com/compilation/ios/">Compilation instructions</a>
                    </div>
                 </div>
-             </div>
-                 <div class="row">
-            <div class="col-md-3 col-sm-6">
-                <div class="platform">
-                    <img src="images/bb.png">
-                    <h4>Blackberry</h4>
-                    <a href="#">Currently unavailable (N/A)</a>
-                    <a href="#">Installation instructions</a>
-                </div>
+               <div class="col-md-3 col-sm-6">
+                   <div class="platform">
+                     <img src="images/bb.png">
+                     <h4>Blackberry</h4>
+                     <a href="#">Currently unavailable (N/A)</a>
+                     <a href="#">Installation instructions</a>
+                   </div>
+               </div>
+               <div class="col-md-3 col-sm-6">
+                   <div class="platform">
+                     <img src="images/ps3.png">
+                     <h4>PlayStation 3</h4>
+                     <a href="https://xbins.org/libretro/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.CEX.PS3.pkg">Download (CEX) [Xbins]</a>
+                     <a href="https://xbins.org/libretro/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.DEX.PS3.pkg">Download (DEX) [Xbins]</a>
+                     <a href="https://xbins.org/libretro/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.ODE.PS3.iso">Download (ODE) [Xbins]</a>
+                   </div>
+               </div>
             </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="platform">
-                    <img src="images/ps3.png">
-                    <h4>PlayStation 3</h4>
-                    <a href="https://xbins.org/libretro/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.CEX.PS3.pkg">Download (CEX) [Xbins]</a>
-                    <a href="https://xbins.org/libretro/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.DEX.PS3.pkg">Download (DEX) [Xbins]</a>
-                    <a href="https://xbins.org/libretro/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.ODE.PS3.iso">Download (ODE) [Xbins]</a>
-                </div>
-            </div>
+            <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/psp.png">
