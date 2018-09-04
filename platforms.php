@@ -233,6 +233,7 @@
                    </div>
                 </div>
              </div>
+        <br />
         <h2>App Store</h2>
         <a href="https://play.google.com/store/apps/details?id=com.retroarch"><img src="images/en_badge_web_generic.png" /></a>
         <h2>Other downloads</h2>
