@@ -83,6 +83,11 @@
                     <a href="https://docs.libretro.com/compilation/osxppc/">Compilation instructions (PowerPC)</a>
                     <p>Note: OSX version for x86 32bit will return at a later point in time. </p>
                 </div>
+                  <div class="platform">
+                    <img src="images/metal.png">
+                    <h4>macOS High Sierra (and later) w/ Metal</h4>
+                    <p>Coming soon!</p>
+                  </div>
             </div>
               </div>
               <div class="row">
