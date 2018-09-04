@@ -196,42 +196,43 @@
                 </div>
             </div>
             <div class="row">
-            <div class="col-md-3 col-sm-6">
-                <div class="platform">
-                    <img src="images/wiiu.png">
-                    <h4>Wii U</h4>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/wiiu/RetroArch.7z">Download</a>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/wiiu/RetroArch_rpx.7z">Download (rpx)</a>
-                    <a href="#">Installation instructions</a>
-                    <a href="https://docs.libretro.com/compilation/wiiu/">Compilation instructions</a>
+                <div class="col-md-3 col-sm-6">
+                   <div class="platform">
+                     <img src="images/wiiu.png">
+                     <h4>Wii U</h4>
+                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/wiiu/RetroArch.7z">Download</a>
+                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/wiiu/RetroArch_rpx.7z">Download (rpx)</a>
+                     <a href="#">Installation instructions</a>
+                     <a href="https://docs.libretro.com/compilation/wiiu/">Compilation instructions</a>
+                   </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                   <div class="platform">
+                     <img src="images/3ds.png">
+                     <h4>3DS</h4>
+                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/3ds/RetroArch_3dsx.7z">Download (3dsx)</a>
+                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/3ds/RetroArch_cia.7z">Download (cia)</a>
+                     <a href="#">Installation instructions</a>
+                     <a href="https://docs.libretro.com/compilation/3ds/">Compilation instructions</a>
+                   </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                   <div class="platform">
+                     <img src="images/rpi.png">
+                     <h4>Raspberry Pi</h4>
+                     <a href="http://www.lakka.tv/get/">Download Lakka</a>
+                   </div>
                 </div>
             </div>
-              </div>
-             <div class="row">
-            <div class="col-md-3 col-sm-6">
-                <div class="platform">
-                    <img src="images/3ds.png">
-                    <h4>3DS</h4>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/3ds/RetroArch_3dsx.7z">Download (3dsx)</a>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/3ds/RetroArch_cia.7z">Download (cia)</a>
-                    <a href="#">Installation instructions</a>
-                    <a href="https://docs.libretro.com/compilation/3ds/">Compilation instructions</a>
+            <div class="row">
+                <div class="col-md-3 col-sm-6">
+                   <div class="platform">
+                     <img src="images/gcw0.png">
+                     <h4>GCW Zero</h4>
+                     <a href="#">Currently unavailable (N/A)</a>
+                   </div>
                 </div>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="platform">
-                    <img src="images/rpi.png">
-                    <h4>Raspberry Pi</h4>
-                    <a href="http://www.lakka.tv/get/">Download Lakka</a>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="platform">
-                    <img src="images/gcw0.png">
-                    <h4>GCW Zero</h4>
-                    <a href="#">Currently unavailable (N/A)</a>
-                </div>
-            </div>
+             </div>
         </div>
         <h2>App Store</h2>
         <a href="https://play.google.com/store/apps/details?id=com.retroarch"><img src="images/en_badge_web_generic.png" /></a>
