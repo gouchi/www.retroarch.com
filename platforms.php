@@ -82,6 +82,7 @@
                        <a href="https://docs.libretro.com/compilation/osxppc/">Compilation instructions (PowerPC)</a>
                        <p>Note: OSX version for x86 32bit will return at a later point in time. </p>
                     </div>
+                </div>
              </div>
              <div class="row">
                 <div class="col-md-3 col-sm-6">
