@@ -142,61 +142,60 @@
                </div>
             </div>
             <div class="row">
-            <div class="col-md-3 col-sm-6">
-                <div class="platform">
-                    <img src="images/psp.png">
-                    <h4>PlayStation Portable</h4>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/playstation/psp/RetroArch.7z">Download</a>
-                    <a href="#">Installation instructions</a>
-                    <a href="https://docs.libretro.com/compilation/psp/">Compilation instructions</a>
+               <div class="col-md-3 col-sm-6">
+                   <div class="platform">
+                     <img src="images/psp.png">
+                     <h4>PlayStation Portable</h4>
+                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/playstation/psp/RetroArch.7z">Download</a>
+                     <a href="#">Installation instructions</a>
+                     <a href="https://docs.libretro.com/compilation/psp/">Compilation instructions</a>
+                   </div>
+               </div>
+               <div class="col-md-3 col-sm-6">
+                   <div class="platform">
+                     <img src="images/psvita.png">
+                     <h4>PlayStation Vita / TV</h4>
+                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/playstation/vita/RetroArch.vpk">Download</a>
+                     <a href="#">Installation instructions</a>
+                     <a href="https://docs.libretro.com/compilation/psvita/">Compilation instructions</a>
+                   </div>
+               </div>
+               <div class="col-md-3 col-sm-6">
+                   <div class="platform">
+                     <img src="images/xbox.png">
+                     <h4>Xbox</h4>
+                     <a href="https://xbins.org/libretro/stable/<?php echo $version; ?>/xbox/xbox/RetroArch.zip">Download [Xbins]</a>
+                   </div>
+               </div>
+            </div>
+            <div class="row">
+                <div class="col-md-3 col-sm-6">
+                   <div class="platform">
+                     <img src="images/xbox360.png">
+                     <h4>Xbox 360</h4>
+                     <a href="#">Currently unavailable (N/A)</a>
+                   </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                   <div class="platform">
+                     <img src="images/gc.png">
+                     <h4>GameCube</h4>
+                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/ngc/RetroArch.7z">Download</a>
+                     <a href="#">Installation instructions</a>
+                     <a href="https://docs.libretro.com/compilation/gamecube/">Compilation instructions</a>
+                   </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                   <div class="platform">
+                     <img src="images/wii.png">
+                     <h4>Wii</h4>
+                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/wii/RetroArch.7z">Download</a>
+                     <a href="#">Installation instructions</a>
+                     <a href="https://docs.libretro.com/compilation/wii/">Compilation instructions</a>
+                   </div>
                 </div>
             </div>
-              </div>
-                           <div class="row">
-            <div class="col-md-3 col-sm-6">
-                <div class="platform">
-                    <img src="images/psvita.png">
-                    <h4>PlayStation Vita / TV</h4>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/playstation/vita/RetroArch.vpk">Download</a>
-                    <a href="#">Installation instructions</a>
-                    <a href="https://docs.libretro.com/compilation/psvita/">Compilation instructions</a>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="platform">
-                    <img src="images/xbox.png">
-                    <h4>Xbox</h4>
-                    <a href="https://xbins.org/libretro/stable/<?php echo $version; ?>/xbox/xbox/RetroArch.zip">Download [Xbins]</a>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="platform">
-                    <img src="images/xbox360.png">
-                    <h4>Xbox 360</h4>
-                    <a href="#">Currently unavailable (N/A)</a>
-                </div>
-            </div>
-                                              </div>
-          
-        <div class="row">
-            <div class="col-md-3 col-sm-6">
-                <div class="platform">
-                    <img src="images/gc.png">
-                    <h4>GameCube</h4>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/ngc/RetroArch.7z">Download</a>
-                    <a href="#">Installation instructions</a>
-                    <a href="https://docs.libretro.com/compilation/gamecube/">Compilation instructions</a>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="platform">
-                    <img src="images/wii.png">
-                    <h4>Wii</h4>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/wii/RetroArch.7z">Download</a>
-                    <a href="#">Installation instructions</a>
-                    <a href="https://docs.libretro.com/compilation/wii/">Compilation instructions</a>
-                </div>
-            </div>
+            <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/wiiu.png">
