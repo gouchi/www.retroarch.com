@@ -88,7 +88,7 @@
                 <div class="col-md-3 col-sm-6">
                   <div class="platform">
                     <img src="images/metal.png">
-                    <h4>macOS High Sierra (and later) w/ Metal</h4>
+                    <h4>macOS High Sierra (and later) with Metal2</h4>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86_64/RetroArch_Metal.dmg" title="Use this if you are using a Mac with at least macOS 10.13 (High Sierra) installed or later.">Download</a>
                   </div>
                 </div>
