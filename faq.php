@@ -30,12 +30,13 @@
         </div>
      <h3>I can't load / the core crashes on startup with (some game)</h3>
      <div class="row platforms">
-      It's either because :
+      It's likely because:
 <ul>
- <li>You are missing a required file like the BIOS or the name is not exact
+ <li>You are missing a required file like the BIOS, or it is named incorrectly
   (you can check it under main menu -> load core -> information -> core information)</li>
  <li>The core doesn't support your game</li>
  <li>Your ROM is a bad dump</li>
+ <li>Your BIOS is a bad dump</li>
  <li>The core doesn't support the video driver you are using</li>
  <li>If you are using a disc-based game (bin + cue archive) you need to unzip it</li>
       </ul>
@@ -64,18 +65,19 @@
      <h1><a id="platform-specific"></a>Platform-specific</h1>
       <hr />
      <h2><a id="linux-platform-specific"></a>Linux</h1>
-        <h3>I can't update cores</h3>
+        <h3>I can't download/update cores because the online/core updater is missing</h3>
         <div class="row platforms">
-            It's likely because your Linux distribution disabled the online updater, you need to give write permissions to your RetroArch folder.
+            It's likely because your Linux distribution disabled the online updater and they want you to use their own libretro-* core packages. If you still want to use our updater, you might be able to turn it back on in Settings -> User Interface -> Views -> Show Online Updater (and/or Show Core Updater), but you will need to change your cores folder (Settings -> Directory -> Cores) to a user-writable directory. If you cannot enable the updater then you may need to compile RetroArch manually; please see the <a href="http://docs.libretro.com/">docs</a> for instructions.
         </div>
      <hr />
      <h2><a id="windows-platform-specific"></a>Windows</h1>
      <h3>When I try to load a core on RetroArch it says "No Core"</h3>
      <div class="row platforms">
-      It's either because :
+      It's likely because:
       <ul>
        <li>You need to download the MSVC Runtime</li>
-       <li>You need to update RetroArch</li>
+       <li>You need to update RetroArch to a newer version</li>
+       <li>The core is missing an external dependency you do not have. You can check this in the log window, it might say something like: <code>[ERROR] Error(s): libpng12.dll: cannot open shared object file: No such file or directory</code>. If you see this, please open an issue and attach the log contents.</li>
       </ul>
      </div>
         <h3>RetroArch crashes on startup</h3>
