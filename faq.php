@@ -80,7 +80,7 @@
      </div>
         <h3>RetroArch crashes on startup</h3>
         <div class="row platforms">
-            Your GPU or OS might lack OpenGL 2.0 support. To fix this, you can open retroarch -> retroarch.cfg and change "video_driver" to either "d3d" or "gdi".
+            Your GPU or OS might lack OpenGL 2.0 support. To get around this, you can try changing the video driver by going to your RetroArch folder -> retroarch.cfg and change "video_driver" to either "d3d9" or "gdi". If that setting is not already there, you can add it.
         </div>
      <h3>I can't see (some core) in the download list</h3>
 <div class="row platforms">
