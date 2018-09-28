@@ -208,6 +208,13 @@
                 </div>
                 <div class="col-md-3 col-sm-6">
                    <div class="platform">
+                     <img src="images/nsw.png">
+                     <h4>Switch</h4>
+                     <p>Coming soon</p>
+                   </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                   <div class="platform">
                      <img src="images/3ds.png">
                      <h4>3DS</h4>
                      <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/3ds/RetroArch_3dsx.7z">Download (3dsx)</a>
@@ -216,6 +223,8 @@
                      <a href="https://docs.libretro.com/compilation/3ds/">Compilation instructions</a>
                    </div>
                 </div>
+            </div>
+            <div class="row">
                 <div class="col-md-3 col-sm-6">
                    <div class="platform">
                      <img src="images/rpi.png">
@@ -223,8 +232,6 @@
                      <a href="http://www.lakka.tv/get/">Download Lakka</a>
                    </div>
                 </div>
-            </div>
-            <div class="row">
                 <div class="col-md-3 col-sm-6">
                    <div class="platform">
                      <img src="images/gcw0.png">
