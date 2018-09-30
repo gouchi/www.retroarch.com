@@ -25,6 +25,8 @@
                     <h4>Linux</h4>
                     <a href="index.php?page=linux-instructions">Installation instructions</a>
                     <a href="https://docs.libretro.com/compilation/ubuntu/">Compilation instructions (Ubuntu)</a>
+                    <a href="https://flathub.org/apps/details/org.libretro.RetroArch">Flatpak package</a>
+                    <a href="https://snapcraft.io/retroarch">Snap package</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
